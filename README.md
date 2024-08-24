@@ -1,7 +1,7 @@
 <h1 align="center">🙂 Pedro Blaschi, Analista de dados 🙂</h1>
 <h3 align="center">Profundamente dedicado à arte de transformar dados em insights valiosos. Atuo como Analista de Dados, aplicando minha curiosidade e habilidades analíticas para desenvolver soluções inovadoras e eficazes. Sempre em busca de aprimoramento contínuo, mantenho um compromisso firme com a exploração do universo dos dados de maneira ética e imparcial.</h3>
 
-- Contato principal: **Pedroblaschis@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
