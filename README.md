@@ -9,3 +9,4 @@
 ### 📂 Projetos
 ### [Nvidia_Stock_Market](https://github.com/blaschis/Nvidia_Stock_Market)
 ### [Analise_financeira_magalu](https://github.com/blaschis/Analise_financeira_magalu)
+### [Atletas_Olimpiadas2024](https://github.com/blaschis/Atletas_Olimpiadas2024)
