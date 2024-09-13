@@ -11,3 +11,4 @@
 ### [Analise_financeira_magalu](https://github.com/blaschis/Analise_financeira_magalu)
 ### [Atletas_Olimpiadas2024](https://github.com/blaschis/Atletas_Olimpiadas2024)
 ### [Messy_Data](https://github.com/blaschis/Messy_Data/blob/main/Messy_Data.ipynb)
+### [Covid_Coreia_do_Sul](https://github.com/blaschis/Covid_Coreia_do_sul/blob/main/Covid_Coreia_do_sul.ipynb)
