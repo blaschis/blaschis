@@ -2,7 +2,8 @@
 ### Sou um profissional especializado em análise de dados, com foco em transformar informações complexas em insights estratégicos para a tomada de decisões empresariais. Possuo experiência significativa na análise de dados, abrangendo diversos setores.
 
 ### Meu objetivo é entregar resultados significativos que impulsionem o sucesso das organizações.
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+### ![135775594-dd729ae2-22d7-4692-92e9-c174c29991b2](https://github.com/user-attachments/assets/74e6b33b-cb92-44e4-8517-e11d229a7949)
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-blaschi-a3b5b22a9/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedroblaschis@gmail.com)
 ### 🔎 Tecs
@@ -16,6 +17,7 @@
 ### [Messy_Data](https://github.com/blaschis/Messy_Data/blob/main/Messy_Data.ipynb)
 ### [Covid_Coreia_do_Sul](https://github.com/blaschis/Covid_Coreia_do_sul/blob/main/Covid_Coreia_do_sul.ipynb)
 
-### ![135775594-dd729ae2-22d7-4692-92e9-c174c29991b2](https://github.com/user-attachments/assets/74e6b33b-cb92-44e4-8517-e11d229a7949)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
