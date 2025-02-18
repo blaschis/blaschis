@@ -1,8 +1,6 @@
 ### Olá, sou Pedro Blaschi - Analista de inteligência de dados.
 ### Sou um profissional especializado em análise de dados, com foco em transformar informações complexas em insights estratégicos para a tomada de decisões empresariais. Possuo experiência significativa na análise de dados, abrangendo diversos setores.
 
-![SURRPdY](https://github.com/user-attachments/assets/54c50239-0433-484e-932c-797d1e938c32)
-
 ### Meu objetivo é entregar resultados significativos que impulsionem o sucesso das organizações.
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
@@ -17,4 +15,7 @@
 ### [Atletas_Olimpiadas2024](https://github.com/blaschis/Atletas_Olimpiadas2024)
 ### [Messy_Data](https://github.com/blaschis/Messy_Data/blob/main/Messy_Data.ipynb)
 ### [Covid_Coreia_do_Sul](https://github.com/blaschis/Covid_Coreia_do_sul/blob/main/Covid_Coreia_do_sul.ipynb)
+
+### ![135775594-dd729ae2-22d7-4692-92e9-c174c29991b2](https://github.com/user-attachments/assets/74e6b33b-cb92-44e4-8517-e11d229a7949)
+
 
