@@ -1,5 +1,8 @@
 ### Olá, sou Pedro Blaschi - Analista de inteligência de dados.
 ### Sou um profissional especializado em análise de dados, com foco em transformar informações complexas em insights estratégicos para a tomada de decisões empresariais. Possuo experiência significativa na análise de dados, abrangendo diversos setores.
+
+![SURRPdY](https://github.com/user-attachments/assets/54c50239-0433-484e-932c-797d1e938c32)
+
 ### Meu objetivo é entregar resultados significativos que impulsionem o sucesso das organizações.
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
