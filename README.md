@@ -14,6 +14,7 @@
 
 
 ### 📂 Repos
+### [Spotfy2023](https://github.com/blaschis/spotfy2023SQLCASE)
 ### [Combustíveis](https://github.com/blaschis/Projeto-Combust-veis)
 ### [Olist_Database](https://github.com/blaschis/Olist_Database)
 ### [Nvidia_Stock_Market](https://github.com/blaschis/Nvidia_Stock_Market)
