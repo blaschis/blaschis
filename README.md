@@ -3,9 +3,6 @@
 
 ### Meu objetivo é entregar resultados significativos que impulsionem o sucesso das organizações.
 #
-<p align="center">
-    <![135775594-dd729ae2-22d7-4692-92e9-c174c29991b2](https://github.com/user-attachments/assets/74e6b33b-cb92-44e4-8517-e11d229a7949)>
-</p>
 ###### ![135775594-dd729ae2-22d7-4692-92e9-c174c29991b2](https://github.com/user-attachments/assets/74e6b33b-cb92-44e4-8517-e11d229a7949)
 #
 
