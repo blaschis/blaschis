@@ -15,6 +15,7 @@
 ### 📂 Repos
 ### [Spotfy2023](https://github.com/blaschis/spotfy2023SQLCASE)
 ### [Combustíveis](https://github.com/blaschis/Projeto-Combust-veis)
+### [Ataque cardiaco](https://github.com/blaschis/ataque-cardiaco)
 ### [Nvidia_Stock_Market](https://github.com/blaschis/Nvidia_Stock_Market)
 ### [Olist_Database](https://github.com/blaschis/Olist_Database)
 ### [Analise_financeira_magalu](https://github.com/blaschis/Analise_financeira_magalu)
